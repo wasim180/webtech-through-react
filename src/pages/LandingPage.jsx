@@ -1,4 +1,3 @@
-
 import About from "../Component/landingPage/About";
 import Footer from "../Component/landingPage/Footer";
 import Navbar from "../Component/landingPage/Navbar";
