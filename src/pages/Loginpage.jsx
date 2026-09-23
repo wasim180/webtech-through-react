@@ -1,10 +1,11 @@
-import Login from "../Component/loginPage/login";
-function Loginpage() {
+import LoginCard from "../components/Login page/login";
+
+function LoginPage(){
     return(
-        <>
-         <Loginpage />
-        </>
-       
+    <>
+    <LoginCard/>
+    </>
+
     );
 }
-export default Loginpage;
+export default LoginPage;
